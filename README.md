@@ -24,7 +24,3 @@ Build a minimal adaptive math learning prototype that adjusts puzzle difficulty 
 - `puzzle_generator.py`: Generates math puzzles.
 - `tracker.py`: Tracks user performance.
 - `adaptive_engine.py`: Handles the ML-based adaptive logic.
-
-## Extending
-- For a web interface, install Streamlit and create an `app.py` that wraps the logic.
-- Improve the ML by collecting real user data over time.
