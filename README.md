@@ -10,8 +10,9 @@ Build a minimal adaptive math learning prototype that adjusts puzzle difficulty 
 - Display end-of-session summary (accuracy, average time, recommended next level).
 
 ## Setup
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run: `python main.py`
+1. Create your virtual environment
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python main.py`
 
 ## How It Works
 - User enters name and chooses initial difficulty.
